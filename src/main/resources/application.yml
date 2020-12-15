@@ -1,0 +1,4 @@
+#spring:
+#  redis:
+#    host: ${REDIS_AZURE_HOST}
+#    port: ${REDIS_AZURE_PORT}
